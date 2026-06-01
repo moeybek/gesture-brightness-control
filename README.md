@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hand Gesture Brightness Control with OpenCV and MediaPipe
 
 A real-time computer vision project that detects hand landmarks using MediaPipe and maps finger movement to a brightness-control value.
@@ -172,3 +173,7 @@ Moawia Sardar Bagdash
 License
 
 This project is for learning and portfolio demonstration purposes.
+=======
+# gesture-brightness-control
+A computer-vision project that detects hand landmarks using MediaPipe and maps finger distance to a brightness-control value. On macOS, the project visualizes the brightness level inside the OpenCV window because direct screen brightness control is hardware/OS-dependent.
+>>>>>>> b99df911363eab4718251d901a1fb6bf72a508cc
