@@ -1,0 +1,26 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# macOS files
+.DS_Store
+
+# VS Code settings
+.vscode/
+
+# Environment variables / secrets
+.env
+
+# Logs
+*.log
+
+# Build files
+build/
+dist/
+*.egg-info/
